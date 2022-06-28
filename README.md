@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HelloJava&fontSize=80)
+
 안녕하세요 저는 3년제 컴퓨터공학과 재학중인 컴공순이입니다.
 
 🌱currently learning<br>
